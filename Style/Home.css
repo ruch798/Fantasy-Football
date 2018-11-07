@@ -1,0 +1,46 @@
+.nav-link {
+		color: #ffffff;
+	}
+
+	.nav-item:hover {
+		background-color: #000;
+	}
+
+	.nav-link:hover {
+		color: #fff;
+	}
+
+	.navbar-brand {
+		text-decoration: none;
+		color: #fff;
+	}
+
+	.navbar-brand:hover {
+		color: #fff;
+	}
+
+	.navbar-color {
+		color: #000;
+	}
+
+	.material-icons{
+		color: #fff;
+	}
+
+	img {
+		width: 100%;
+		height: auto;
+	}
+
+	.temp {
+		width: 33%;
+		height: auto;
+	}
+
+	.footer ul li {
+		color: #fff;
+	}
+
+	ul {
+		list-style: none;
+	}
