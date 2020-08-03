@@ -2,8 +2,6 @@ Fantasy Football league implementation using PHP, HTML, CSS, MySQL, Bootstrap 4.
 
 The application provides an easy, simple interface to facilitate checking of scores and lays the groundwork for a member to create his dream team. The system makes use of SQL(PhpMyadmin) and web based application to provide improved and optimized services. The portal is compatible with any web browser, however recommended browsers are Chrome and Mozilla Firefox(Chrome was used in the testing phase of deployment).
 
-**Developed by Parshva Barbhaya and Ruchi Bhatia**
-
 Installation steps:
 - Download the .zip file.
 - Extract the contents of the file.
@@ -11,5 +9,7 @@ Installation steps:
 - Open Browser and write in url => localhost/[path to extracted files]/football/Home.php
 - To see the database, run phpmyadmin.
 - In a new tab, type in the url => localhost/phpmyadmin and access all the databases, from there select schema with name football.
+
+**Developed by Parshva Barbhaya and Ruchi Bhatia**
 
 
